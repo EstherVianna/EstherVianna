@@ -1,6 +1,6 @@
 ### Hello! Eu sou Esther Vianna, seja bem vindo! ❤️
 
-- 💡Tenho 21 anos e estudante autodidata focada em me tornar uma desenvolvedora front-en;
+- 💡Tenho 21 anos e estudante autodidata focada em me tornar uma desenvolvedora front-end;
 - 👩🏽‍💻 Atualmente estudando a tríade HTML, CSS e Javascript;
 - 📫 Você me encontra nas seguintes redes: Instagram - @Sthervianna_ |Linkedin - https://www.linkedin.com/in/esther-vianna-2202/.
 
