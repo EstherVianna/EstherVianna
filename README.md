@@ -1,6 +1,6 @@
 ### Hello! Eu sou Esther Vianna, seja bem vindo! ❤️
 
-- 💡Tenho 21 anos uma desenvolvedora front-end´júnior;
+- 💡Tenho 21 anos uma desenvolvedora front-end júnior;
 - 👩🏽‍💻 Atualmente estudando React;
 - ✅ HTML5/SEMÂNTICA
 - ✅ CSS6
