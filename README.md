@@ -6,7 +6,6 @@
 - ✅ CSS6
 - ✅ JAVASCRIPT/ES6
 - ✅ Inglês Avançado/B2
-- 
 - 📫 Você me encontra nas seguintes redes: https://linktr.ee/esthervianna
 
   <div align="center">
