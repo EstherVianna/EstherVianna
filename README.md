@@ -1,12 +1,13 @@
 ### Hello! Eu sou Esther Vianna, seja bem vindo! ❤️
 
-- 💡Tenho 21 anos uma desenvolvedora front-end júnior;
-- 👩🏽‍💻 Atualmente estudando React;
-- ✅ HTML5/SEMÂNTICA
-- ✅ CSS6
-- ✅ JAVASCRIPT/ES6
-- ✅ Inglês Avançado/B2
-- 📫 Você me encontra nas seguintes redes: https://linktr.ee/esthervianna
+- 👩🏽‍💻 Desenvolvedora Front-end;
+- 💫 22 anos e Carioca;
+- ✍🏽 Atualmente estudando React;
+- ✅ HTML5/SEMÂNTICA;
+- ✅ CSS6/Sass;
+- ✅ JAVASCRIPT/ES6;
+- ✅ Inglês Avançado/B2;
+- 📫 Você me encontra nas seguintes redes: https://linktr.ee/esthervianna;
 
   <div align="center">
     <a href="https://github.com/EstherVianna">
