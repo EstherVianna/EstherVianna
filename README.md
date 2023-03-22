@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻 Desenvolvedora Front-end;
 - 💫 22 anos e Carioca;
-- ✍🏽 Atualmente estudando React;
+- ✍🏽 Atualmente estudando Vue.js;
 - ✅ HTML5/SEMÂNTICA;
 - ✅ CSS6/Sass;
 - ✅ JAVASCRIPT/ES6;
