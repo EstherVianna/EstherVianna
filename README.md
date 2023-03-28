@@ -3,10 +3,7 @@
 - 👩🏽‍💻 Desenvolvedora Front-end;
 - 💫 22 anos e Carioca;
 - ✍🏽 Atualmente estudando Vue.js;
-- ✅ HTML5/SEMÂNTICA;
-- ✅ CSS6/Sass;
-- ✅ JAVASCRIPT/ES6;
-- ✅ Inglês Avançado/B2;
+- 🆒 Disposta a colaborar em qualquer projeto significativo e legal
 - 📫 Você me encontra nas seguintes redes: https://linktr.ee/esthervianna;
 
   <div align="center">
