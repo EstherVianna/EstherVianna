@@ -13,7 +13,7 @@
   </div>
   <div style="display: inline_block"> <br>
     <h1>Ferramentas e Tecnologias</h1>
-    <img align="center" alt="Esther-HTML" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)">
+    <img align="center" alt="Esther-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Esther-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img  align="center" alt="Esther-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Esther-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
