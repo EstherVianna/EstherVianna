@@ -6,7 +6,7 @@
 - 🆒 Disposta a colaborar em qualquer projeto significativo e legal
 - 📫 Você me encontra nas seguintes redes: https://linktr.ee/esthervianna;
 
-  <div align="center">
+  <div align="center" style="background-color:green">
     <a href="https://github.com/EstherVianna">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherVianna&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherVianna&layout=compact&langs_count=7&theme=buefy"/>
