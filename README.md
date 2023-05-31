@@ -1,7 +1,7 @@
 ### Hello! Eu sou Esther Vianna, seja bem vindo! ❤️
 
 - 👩🏽‍💻 Desenvolvedora Front-end;
-- 💫 22 anos e Petropolitana;
+- 💫 22 anos;
 - ✍🏽 Atualmente estudando Vue.js;
 - 🆒 Disposta a colaborar em qualquer projeto significativo e legal
 - 📫 Você me encontra nas seguintes redes: https://linktr.ee/esthervianna;
